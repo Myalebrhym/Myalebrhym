@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Maryam</h1>
+<h1 align="center">Hi 👩‍💻, I'm Maryam</h1>
 <h3 align="center">A data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myalebrhym&label=Profile%20views&color=0e75b6&style=flat" alt="myalebrhym" /> </p>
 
-- 👨‍💻 All of my projects are available
+- 👩‍💻 All of my projects are available
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
